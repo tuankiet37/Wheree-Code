@@ -1,0 +1,142 @@
+cat,sub_cat
+Restaurants,Location
+Restaurants,Food quality and variety
+Restaurants,Amenities
+Restaurants,Ambiance
+Restaurants,Reservation and payment
+Restaurants,Service
+Shopping,Quality
+Shopping,Product variety
+Shopping,Price
+Shopping,Location
+Shopping,Customer service
+Shopping,Payment options
+Nightlife,Ambiance
+Nightlife,Music
+Nightlife,Drinks
+Nightlife,Services
+Nightlife,Prices
+Nightlife,Location
+Nightlife,Safety
+Active Life,Safety
+Active Life,Cost
+Active Life,Location
+Active Life,Quality of facilities
+Active Life,Variety of activities
+Active Life,Service quality
+Automotive,Location
+Automotive,Price
+Automotive,Safety
+Automotive,Customer service
+Automotive,Service quality
+Beauty & Spas,Facilities & equipment
+Beauty & Spas,Location
+Beauty & Spas,Price
+Beauty & Spas,Customer data privacy
+Beauty & Spas,Variety of services
+Beauty & Spas,Privacy and comfort
+Beauty & Spas,Service quality
+Home Services,Completion time
+Home Services,Price
+Home Services,Warranty
+Home Services,Information and asset security
+Home Services,Customer service
+Coffee & Tea,Atmosphere
+Coffee & Tea,Service attitude and speed
+Coffee & Tea,Location
+Coffee & Tea,Price
+Coffee & Tea,Menu variety
+Food,Price
+Food,Food quality and variety
+Food,Amenities
+Food,Space
+Food,Reservation and payment
+Food,Service
+Arts & Entertainment,Quality
+Arts & Entertainment,Variety
+Arts & Entertainment,Service
+Arts & Entertainment,Space
+Arts & Entertainment,Location
+Arts & Entertainment,Quality of care
+Health & Medical,Service attitude
+Health & Medical,Waiting time
+Health & Medical,Medical equipment
+Health & Medical,Doctor's expertise
+Health & Medical,Hygiene and safety
+Health & Medical,Service quality
+Professional Services,Expertise and qualifications
+Professional Services,Service attitude
+Professional Services,Price
+Professional Services,Reliability
+Professional Services,Customer feedback and support
+Professional Services,Quality
+Pets,Staff experience and expertise
+Pets,Facilities and amenities
+Pets,Price
+Pets,Cleanliness and hygiene
+Pets,Service
+Pets,Product quality
+Real Estate,Price
+Real Estate,Construction quality
+Real Estate,Amenities and facilities
+Real Estate,Design and architecture
+Real Estate,Security and safety
+Real Estate,Living environment
+Real Estate,Location
+Hotels,Price
+Hotels,Room quality
+Hotels,Customer service
+Hotels,Amenities and facilities
+Hotels,Food quality
+Hotels,Security
+Hotels,Service quality
+Travel & Tours,Price
+Travel & Tours,Itinerary and schedule
+Travel & Tours,Local experience
+Travel & Tours,Safety and insurance
+Travel & Tours,Customer support
+Travel & Tours,Service quality
+Local Services,Price
+Local Services,Completion time
+Local Services,Reliability
+Local Services,Professionalism
+Local Services,Safety and insurance
+Local Services,Service quality
+Event Planning & Services,Price
+Event Planning & Services,Staff experience and expertise
+Event Planning & Services,Customer service
+Event Planning & Services,Reliability and responsibility
+Event Planning & Services,Product and service diversity
+Event Planning & Services,Service quality
+Public Services & Government,Transparency and clarity
+Public Services & Government,Friendliness
+Public Services & Government,Cost
+Public Services & Government,Fairness
+Public Services & Government,Service quality
+Financial Services,Transparency and clarity
+Financial Services,Response time
+Financial Services,Pricing and fees
+Financial Services,Security
+Financial Services,Reliability
+Financial Services,Product and service diversity
+Education,Curriculum
+Education,Facilities
+Education,Learning environment
+Education,Value and cost
+Education,Security
+Education,Location
+Local Flavor,Price
+Local Flavor,Menu variety
+Local Flavor,Customer service
+Local Flavor,Atmosphere
+Religious Organizations,Location
+Religious Organizations,Security
+Religious Organizations,Quality of teachings
+Religious Organizations,Diversity and inclusion
+Religious Organizations,Content quality
+Mass Media,Reliability
+Mass Media,Creativity
+Mass Media,Image and sound quality
+Mass Media,Professionalism
+Mass Media,Accessibility
+Mass Media,Content quality

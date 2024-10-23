@@ -1,0 +1,828 @@
+Main Category,Subcategory,Suitability Percentage
+Restaurants,Acaraje restaurant,2.0
+Restaurants,Afghan restaurant,2.0
+Restaurants,African restaurant,2.0
+Restaurants,Algerian Restaurant,2.0
+Restaurants,Alsace restaurant,2.0
+Restaurants,American restaurant,2.0
+Restaurants,Anhui restaurant,2.0
+Restaurants,Anago restaurant,2.0
+Restaurants,Andalusian restaurant,2.0
+Restaurants,Andhra restaurant,2.0
+Restaurants,Angler fish restaurant,2.0
+Restaurants,Animal cafe,2.0
+Restaurants,Arab restaurant,2.0
+Restaurants,Argentinian restaurant,2.0
+Restaurants,Armenian restaurant,2.0
+Restaurants,Art cafe,2.0
+Restaurants,Asian fusion restaurant,2.0
+Restaurants,Asian restaurant,2.0
+Restaurants,Assamese restaurant,2.0
+Restaurants,Asturian restaurant,2.0
+Restaurants,Australian restaurant,2.0
+Restaurants,Austrian restaurant,2.0
+Restaurants,Awadhi restaurant,2.0
+Restaurants,Ayam penyet restaurant,2.0
+Restaurants,Azerbaijani restaurant,2.0
+Restaurants,Baden restaurant,2.0
+Restaurants,Bakso restaurant,2.0
+Restaurants,Balinese restaurant,2.0
+Restaurants,Bangladeshi restaurant,2.0
+Restaurants,Bar restaurant furniture store,2.0
+Restaurants,Barbecue restaurant,2.0
+Restaurants,Basque restaurant,2.0
+Restaurants,Batak restaurant,2.0
+Restaurants,Bavarian restaurant,2.0
+Restaurants,Gyudon restaurant,2.0
+Restaurants,Belgian restaurant,2.0
+Restaurants,Bengali restaurant,2.0
+Restaurants,Berry restaurant,2.0
+Restaurants,Betawi restaurant,2.0
+Restaurants,Biryani restaurant,2.0
+Restaurants,Brazilian restaurant,2.0
+Restaurants,Breakfast restaurant,2.0
+Restaurants,British restaurant,2.0
+Restaurants,Brunch restaurant,2.0
+Restaurants,Buffet restaurant,2.0
+Restaurants,Bulgarian restaurant,2.0
+Restaurants,Burmese restaurant,2.0
+Restaurants,Burrito restaurant,2.0
+Restaurants,Cafe,2.0
+Restaurants,Cafeteria,2.0
+Shopping,Açaí shop,2.0
+Shopping,Acrylic store,2.0
+Shopping,Adult DVD store,2.0
+Shopping,Adult entertainment store,2.0
+Shopping,Aeromodel shop,2.0
+Shopping,African goods store,2.0
+Shopping,Air conditioning store,2.0
+Shopping,Airbrushing supply store,2.0
+Shopping,Aircraft supply store,2.0
+Shopping,Airsoft supply store,2.0
+Shopping,American grocery store,2.0
+Shopping,Amish furniture store,2.0
+Shopping,Antique furniture store,2.0
+Shopping,Antique store,2.0
+Shopping,Appliance store,2.0
+Shopping,Aquarium shop,2.0
+Shopping,Archery store,2.0
+Shopping,Architectural salvage store,2.0
+Shopping,Army & navy surplus shop,2.0
+Shopping,Aromatherapy supply store,2.0
+Shopping,Art supply store,2.0
+Shopping,Asian grocery store,2.0
+Shopping,Asian household goods store,2.0
+Shopping,ATV repair shop,2.0
+Shopping,Australian goods store,2.0
+Shopping,Auto body shop,2.0
+Shopping,Auto care products store,2.0
+Shopping,Auto chemistry shop,2.0
+Shopping,Auto glass shop,2.0
+Shopping,Auto machine shop,2.0
+Shopping,Auto market,2.0
+Shopping,Auto parts market,2.0
+Shopping,Auto parts store,2.0
+Shopping,Auto repair shop,2.0
+Shopping,Auto spring shop,2.0
+Shopping,Auto sunroof shop,2.0
+Shopping,Baby clothing store,2.0
+Shopping,Baby store,2.0
+Shopping,Bag shop,2.0
+Shopping,Bagel shop,2.0
+Shopping,Bait shop,2.0
+Shopping,Baking supply store,2.0
+Shopping,Balloon store,2.0
+Shopping,Bangle Shop,2.0
+Shopping,Banner store,2.0
+Shopping,Barber shop,2.0
+Shopping,Barber supply store,2.0
+Shopping,Baseball goods store,2.0
+Shopping,Bathroom supply store,2.0
+Shopping,Batik clothing store,2.0
+Nightlife,Abarth dealer,2.0
+Nightlife,Adult entertainment club,2.0
+Nightlife,Aeroclub,2.0
+Nightlife,Aikido club,2.0
+Nightlife,Anime club,2.0
+Nightlife,Archery club,2.0
+Nightlife,Army barracks,2.0
+Nightlife,Athletic club,2.0
+Nightlife,Badminton club,2.0
+Nightlife,Bar,2.0
+Nightlife,Bar & grill,2.0
+Nightlife,Bar PMU,2.0
+Nightlife,Bar stool supplier,2.0
+Nightlife,Bar tabac,2.0
+Nightlife,Barbecue area,2.0
+Nightlife,Barber school,2.0
+Nightlife,Bariatric surgeon,2.0
+Nightlife,Bark supplier,2.0
+Nightlife,Barrel supplier,2.0
+Nightlife,Barrister,2.0
+Nightlife,Bartending school,2.0
+Nightlife,Baseball club,2.0
+Nightlife,Basketball club,2.0
+Nightlife,Beach club,2.0
+Nightlife,Beach volleyball club,2.0
+Nightlife,Bicycle club,2.0
+Nightlife,Blues club,2.0
+Nightlife,BMX club,2.0
+Nightlife,Board game club,2.0
+Nightlife,Boat club,2.0
+Nightlife,Book publisher,2.0
+Nightlife,Bowling club,2.0
+Nightlife,Boxing club,2.0
+Nightlife,Brewpub,2.0
+Nightlife,Bridge club,2.0
+Nightlife,Cabaret club,2.0
+Nightlife,Cannabis club,2.0
+Nightlife,Canoe and kayak club,2.0
+Nightlife,Carnival club,2.0
+Nightlife,Certified public accountant,2.0
+Nightlife,Chess and card club,2.0
+Nightlife,Chess club,2.0
+Nightlife,Children’s club,2.0
+Nightlife,Chop bar,2.0
+Nightlife,Cider bar,2.0
+Nightlife,City Department of Public Safety,2.0
+Nightlife,Classified ads newspaper publisher,2.0
+Nightlife,Club,2.0
+Nightlife,Cocktail bar,2.0
+Nightlife,Comedy club,2.0
+Active Life,Adventure sports,2.380952380952381
+Active Life,Adventure sports center,2.380952380952381
+Active Life,Aerial sports center,2.380952380952381
+Active Life,Boxing gym,2.380952380952381
+Active Life,City department of transportation,2.380952380952381
+Active Life,Clergyman,2.380952380952381
+Active Life,Department of Transportation,2.380952380952381
+Active Life,Adaptive sports center,2.380952380952381
+Active Life,Fitness center,2.380952380952381
+Active Life,Fitness equipment wholesaler,2.380952380952381
+Active Life,Gym,2.380952380952381
+Active Life,Gymnasium school,2.380952380952381
+Active Life,Gymnastics center,2.380952380952381
+Active Life,Handicapped transportation service,2.380952380952381
+Active Life,Horse transport supplier,2.380952380952381
+Active Life,Manufactured home transporter,2.380952380952381
+Active Life,Muay Thai boxing gym,2.380952380952381
+Active Life,Municipal Department of Sports,2.380952380952381
+Active Life,Passport agent,2.380952380952381
+Active Life,Passport office,2.380952380952381
+Active Life,Passport photo processor,2.380952380952381
+Active Life,Physical fitness program,2.380952380952381
+Active Life,Cue sports school,2.380952380952381
+Active Life,Powersports vehicle dealer,2.380952380952381
+Active Life,Refrigerated transport service,2.380952380952381
+Active Life,Rock climbing gym,2.380952380952381
+Active Life,Sport tour agency,2.380952380952381
+Active Life,Sports accessories wholesaler,2.380952380952381
+Active Life,Sports complex,2.380952380952381
+Active Life,Sports equipment rental service,2.380952380952381
+Active Life,Sports massage therapist,2.380952380952381
+Active Life,Sports medicine clinic,2.380952380952381
+Active Life,Sports medicine physician,2.380952380952381
+Active Life,Sports school,2.380952380952381
+Active Life,Sportwear manufacturer,2.380952380952381
+Active Life,State Department of Transportation,2.380952380952381
+Active Life,State Dept of Sports,2.380952380952381
+Active Life,Transportation escort service,2.380952380952381
+Active Life,Transportation service,2.380952380952381
+Active Life,Visa and passport office,2.380952380952381
+Active Life,Vocational gymnasium school,2.380952380952381
+Active Life,Water sports equipment rental service,2.380952380952381
+Travel & Tours,Balloon ride tour agency,5.263157894736842
+Travel & Tours,Boat tour agency,5.263157894736842
+Travel & Tours,Bus tour agency,5.263157894736842
+Travel & Tours,Canoe & kayak tour agency,5.263157894736842
+Travel & Tours,Farm household tour,5.263157894736842
+Travel & Tours,Helicopter tour agency,5.263157894736842
+Travel & Tours,Hospitality and tourism school,5.263157894736842
+Travel & Tours,Municipal Department of Tourism,5.263157894736842
+Travel & Tours,SCUBA tour agency,5.263157894736842
+Travel & Tours,Sightseeing tour agency,5.263157894736842
+Travel & Tours,State Department of Tourism,5.263157894736842
+Travel & Tours,Tour agency,5.263157894736842
+Travel & Tours,Tour operator,5.263157894736842
+Travel & Tours,Tourist attraction,5.263157894736842
+Travel & Tours,Tourist information center,5.263157894736842
+Travel & Tours,Travel agency,5.263157894736842
+Travel & Tours,Travel clinic,5.263157894736842
+Travel & Tours,Travel lounge,5.263157894736842
+Travel & Tours,Whale watching tour agency,5.263157894736842
+Automotive,Acura dealer,2.0
+Automotive,Adult day care center,2.0
+Automotive,Adult foster care service,2.0
+Automotive,Aircraft dealer,2.0
+Automotive,Alfa Romeo dealer,2.0
+Automotive,Art dealer,2.0
+Automotive,Aston Martin dealer,2.0
+Automotive,ATV dealer,2.0
+Automotive,Audi dealer,2.0
+Automotive,Auto accessories wholesaler,2.0
+Automotive,Auto air conditioning service,2.0
+Automotive,Auto auction,2.0
+Automotive,Auto body parts supplier,2.0
+Automotive,Auto bodywork mechanic,2.0
+Automotive,Auto broker,2.0
+Automotive,Auto dent removal service,2.0
+Automotive,Auto electrical service,2.0
+Automotive,Auto glass repair service,2.0
+Automotive,Auto insurance agency,2.0
+Automotive,Auto painting,2.0
+Automotive,Auto parts manufacturer,2.0
+Automotive,Auto radiator repair service,2.0
+Automotive,Auto restoration service,2.0
+Automotive,Auto rickshaw stand,2.0
+Automotive,Auto tag agency,2.0
+Automotive,Auto tune up service,2.0
+Automotive,Auto upholsterer,2.0
+Automotive,Auto window tinting service,2.0
+Automotive,Auto wrecker,2.0
+Automotive,Automation company,2.0
+Automotive,Automobile storage facility,2.0
+Automotive,Bentley dealer,2.0
+Automotive,BMW dealer,2.0
+Automotive,BMW motorcycle dealer,2.0
+Automotive,Boat dealer,2.0
+Automotive,Boat trailer dealer,2.0
+Automotive,Bugatti dealer,2.0
+Automotive,Buick dealer,2.0
+Automotive,Cadillac dealer,2.0
+Automotive,Car alarm supplier,2.0
+Automotive,Car dealer,2.0
+Automotive,Car detailing service,2.0
+Automotive,Car factory,2.0
+Automotive,Car finance and loan company,2.0
+Automotive,Car inspection station,2.0
+Automotive,Car leasing service,2.0
+Automotive,Car manufacturer,2.0
+Automotive,Car racing track,2.0
+Automotive,Car rental agency,2.0
+Automotive,Car repair and maintenance service,2.0
+Beauty & Spas,Aerospace company,3.571428571428571
+Beauty & Spas,Beauty product supplier,3.571428571428571
+Beauty & Spas,Beauty products vending machine,3.571428571428571
+Beauty & Spas,Beauty products wholesaler,3.571428571428571
+Beauty & Spas,Beauty salon,3.571428571428571
+Beauty & Spas,Beauty school,3.571428571428571
+Beauty & Spas,Coworking space,3.571428571428571
+Beauty & Spas,Day spa,3.571428571428571
+Beauty & Spas,Eyelash salon,3.571428571428571
+Beauty & Spas,Facial spa,3.571428571428571
+Beauty & Spas,Fencing salon,3.571428571428571
+Beauty & Spas,Fish spa,3.571428571428571
+Beauty & Spas,Hair salon,3.571428571428571
+Beauty & Spas,Health spa,3.571428571428571
+Beauty & Spas,Hispanic church,3.571428571428571
+Beauty & Spas,Hot bedstone spa,3.571428571428571
+Beauty & Spas,Makerspace,3.571428571428571
+Beauty & Spas,Massage spa,3.571428571428571
+Beauty & Spas,Medical spa,3.571428571428571
+Beauty & Spas,Museum of space history,3.571428571428571
+Beauty & Spas,Nail salon,3.571428571428571
+Beauty & Spas,Newspaper distribution service,3.571428571428571
+Beauty & Spas,Office space rental agency,3.571428571428571
+Beauty & Spas,Retail space rental agency,3.571428571428571
+Beauty & Spas,Spa,3.571428571428571
+Beauty & Spas,Spa garden,3.571428571428571
+Beauty & Spas,Space of remembrance,3.571428571428571
+Beauty & Spas,Tanning salon,3.571428571428571
+Home Services,Air compressor repair service,2.0
+Home Services,Air conditioning repair service,2.0
+Home Services,Air duct cleaning service,2.0
+Home Services,Appliance repair service,2.0
+Home Services,Audio visual equipment repair service,2.0
+Home Services,Beach cleaning service,2.0
+Home Services,Blast cleaning service,2.0
+Home Services,Boat cleaning service,2.0
+Home Services,Children’s home,2.0
+Home Services,Cleaning products supplier,2.0
+Home Services,Clock repair service,2.0
+Home Services,Computer repair service,2.0
+Home Services,Copier repair service,2.0
+Home Services,Curtain and upholstery cleaning service,2.0
+Home Services,Custom home builder,2.0
+Home Services,Diesel engine repair service,2.0
+Home Services,Display home centre,2.0
+Home Services,Dryer vent cleaning service,2.0
+Home Services,Farm equipment repair service,2.0
+Home Services,Fiberglass repair service,2.0
+Home Services,Funeral home,2.0
+Home Services,Furnace repair service,2.0
+Home Services,Glass repair service,2.0
+Home Services,Glasses repair service,2.0
+Home Services,Group home,2.0
+Home Services,Gutter cleaning service,2.0
+Home Services,Hearing aid repair service,2.0
+Home Services,Holiday home,2.0
+Home Services,Home builder,2.0
+Home Services,Home cinema installation,2.0
+Home Services,Home hairdresser,2.0
+Home Services,Home help,2.0
+Home Services,Home help service agency,2.0
+Home Services,Home inspector,2.0
+Home Services,Home insurance agency,2.0
+Home Services,Home staging service,2.0
+Home Services,Homekill service,2.0
+Home Services,Homeless service,2.0
+Home Services,Homeless shelter,2.0
+Home Services,Homeopath,2.0
+Home Services,Homeopathic pharmacy,2.0
+Home Services,Homeowners’ association,2.0
+Home Services,Hot tub repair service,2.0
+Home Services,House cleaning service,2.0
+Home Services,Hydraulic repair service,2.0
+Home Services,Jewelry repair service,2.0
+Home Services,Lamp repair service,2.0
+Home Services,Lawn mower repair service,2.0
+Home Services,Leather cleaning service,2.0
+Home Services,Leather repair service,2.0
+Coffee & Tea,Chinese tea house,6.666666666666667
+Coffee & Tea,Coffee machine supplier,6.666666666666667
+Coffee & Tea,Coffee roasters,6.666666666666667
+Coffee & Tea,Coffee stand,6.666666666666667
+Coffee & Tea,Coffee vending machine,6.666666666666667
+Coffee & Tea,Coffee wholesaler,6.666666666666667
+Coffee & Tea,Japanese steakhouse,6.666666666666667
+Coffee & Tea,Steak house,6.666666666666667
+Coffee & Tea,Tea exporter,6.666666666666667
+Coffee & Tea,Tea house,6.666666666666667
+Coffee & Tea,Tea manufacturer,6.666666666666667
+Coffee & Tea,Tea wholesaler,6.666666666666667
+Coffee & Tea,Teachers college,6.666666666666667
+Coffee & Tea,Teachers’ housing,6.666666666666667
+Coffee & Tea,Traditional teahouse,6.666666666666667
+Food,Bakery,3.8461538461538463
+Food,Bakery equipment,3.8461538461538463
+Food,Catering food and drink supplier,3.8461538461538463
+Food,Chinese bakery,3.8461538461538463
+Food,Food and beverage consultant,3.8461538461538463
+Food,Food and beverage exporter,3.8461538461538463
+Food,Food bank,3.8461538461538463
+Food,Food broker,3.8461538461538463
+Food,Food court,3.8461538461538463
+Food,Food machinery supplier,3.8461538461538463
+Food,Food manufacturer,3.8461538461538463
+Food,Food manufacturing supply,3.8461538461538463
+Food,Food processing company,3.8461538461538463
+Food,Food processing equipment,3.8461538461538463
+Food,Food producer,3.8461538461538463
+Food,Food products supplier,3.8461538461538463
+Food,Food seasoning manufacturer,3.8461538461538463
+Food,Frozen food manufacturer,3.8461538461538463
+Food,Grocery delivery service,3.8461538461538463
+Food,Municipal department of agriculture food supply,3.8461538461538463
+Food,Seafood farm,3.8461538461538463
+Food,Seafood wholesaler,3.8461538461538463
+Food,Staple food package,3.8461538461538463
+Food,State Department Agriculture Food Supply,3.8461538461538463
+Food,Wedding bakery,3.8461538461538463
+Food,Wholesale bakery,3.8461538461538463
+Arts & Entertainment,Aboriginal art gallery,2.0
+Arts & Entertainment,Amateur theater,2.0
+Arts & Entertainment,Amphitheater,2.0
+Arts & Entertainment,Apartment building,2.0
+Arts & Entertainment,Apartment complex,2.0
+Arts & Entertainment,Apartment rental agency,2.0
+Arts & Entertainment,Appliance parts supplier,2.0
+Arts & Entertainment,Art center,2.0
+Arts & Entertainment,Art gallery,2.0
+Arts & Entertainment,Art museum,2.0
+Arts & Entertainment,Art restoration service,2.0
+Arts & Entertainment,Art school,2.0
+Arts & Entertainment,Art studio,2.0
+Arts & Entertainment,Artificial plant supplier,2.0
+Arts & Entertainment,Artist,2.0
+Arts & Entertainment,Arts organization,2.0
+Arts & Entertainment,Ballet theater,2.0
+Arts & Entertainment,Balloon artist,2.0
+Arts & Entertainment,Chartered surveyor,2.0
+Arts & Entertainment,Bus charter,2.0
+Arts & Entertainment,Charter school,2.0
+Arts & Entertainment,Chartered accountant,2.0
+Arts & Entertainment,Children’s party buffet,2.0
+Arts & Entertainment,Children’s party service,2.0
+Arts & Entertainment,Children’s theater,2.0
+Arts & Entertainment,Chocolate artisan,2.0
+Arts & Entertainment,City Department of Environment,2.0
+Arts & Entertainment,City employment department,2.0
+Arts & Entertainment,Conservation department,2.0
+Arts & Entertainment,Correctional services department,2.0
+Arts & Entertainment,Customs department,2.0
+Arts & Entertainment,Department for Regional Development,2.0
+Arts & Entertainment,Department of education,2.0
+Arts & Entertainment,Department of finance,2.0
+Arts & Entertainment,Department of housing,2.0
+Arts & Entertainment,Department of motor vehicles,2.0
+Arts & Entertainment,Department of Social Services,2.0
+Arts & Entertainment,Department of State Treasure,2.0
+Arts & Entertainment,Dinner theater,2.0
+Arts & Entertainment,Drama theater,2.0
+Arts & Entertainment,Drive-in movie theater,2.0
+Arts & Entertainment,Earth works company,2.0
+Arts & Entertainment,Electronic parts supplier,2.0
+Arts & Entertainment,Fire department equipment supplier,2.0
+Arts & Entertainment,Fishing charter,2.0
+Arts & Entertainment,Flamenco theater,2.0
+Arts & Entertainment,Furnace parts supplier,2.0
+Arts & Entertainment,Furnished apartment building,2.0
+Arts & Entertainment,Go-kart track,2.0
+Arts & Entertainment,Head start center,2.0
+Local Flavor,Community center,10.0
+Local Flavor,Community college,10.0
+Local Flavor,Community garden,10.0
+Local Flavor,Community health centre,10.0
+Local Flavor,Community school,10.0
+Local Flavor,Gated community,10.0
+Local Flavor,Local government office,10.0
+Local Flavor,Local history museum,10.0
+Local Flavor,Local medical services,10.0
+Local Flavor,Retirement community,10.0
+Health & Medical,Abortion clinic,2.0
+Health & Medical,Acupuncture clinic,2.0
+Health & Medical,Animal hospital,2.0
+Health & Medical,Ayurvedic clinic,2.0
+Health & Medical,Children Policlinic,2.0
+Health & Medical,Children’s hospital,2.0
+Health & Medical,Chinese medicine clinic,2.0
+Health & Medical,Dental clinic,2.0
+Health & Medical,Fertility clinic,2.0
+Health & Medical,Free clinic,2.0
+Health & Medical,General hospital,2.0
+Health & Medical,Government hospital,2.0
+Health & Medical,Hair transplantation clinic,2.0
+Health & Medical,Hospital,2.0
+Health & Medical,Hospital equipment and supplies,2.0
+Health & Medical,Hospitality high school,2.0
+Health & Medical,Maternity hospital,2.0
+Health & Medical,Medical billing service,2.0
+Health & Medical,Medical Center,2.0
+Health & Medical,Medical certificate service,2.0
+Health & Medical,Medical clinic,2.0
+Health & Medical,Medical diagnostic imaging center,2.0
+Health & Medical,Medical equipment manufacturer,2.0
+Health & Medical,Medical equipment supplier,2.0
+Health & Medical,Medical examiner,2.0
+Health & Medical,Medical group,2.0
+Health & Medical,Medical laboratory,2.0
+Health & Medical,Medical lawyer,2.0
+Health & Medical,Medical office,2.0
+Health & Medical,Medical school,2.0
+Health & Medical,Medical technology manufacturer,2.0
+Health & Medical,Medical transcription service,2.0
+Health & Medical,Mental health clinic,2.0
+Health & Medical,Military hospital,2.0
+Health & Medical,Women’s health clinic,2.0
+Health & Medical,Occupational medical physician,2.0
+Health & Medical,Ophthalmology clinic,2.0
+Health & Medical,Oriental medicine clinic,2.0
+Health & Medical,Orthopedic clinic,2.0
+Health & Medical,Otolaryngology clinic,2.0
+Health & Medical,Pain control clinic,2.0
+Health & Medical,Pediatric clinic,2.0
+Health & Medical,Permanent make-up clinic,2.0
+Health & Medical,Physical therapy clinic,2.0
+Health & Medical,Plastic surgery clinic,2.0
+Health & Medical,Private hospital,2.0
+Health & Medical,Psychiatric hospital,2.0
+Health & Medical,Psychoneurological specialized clinic,2.0
+Health & Medical,Psychopedagogy clinic,2.0
+Health & Medical,Psychosomatic medical practitioner,2.0
+Professional Services,Adoption agency,2.0
+Professional Services,Advertising agency,2.0
+Professional Services,Antenna service,2.0
+Professional Services,Agistment service,2.0
+Professional Services,Agricultural service,2.0
+Professional Services,Air ambulance service,2.0
+Professional Services,Airbrushing service,2.0
+Professional Services,Aircraft rental service,2.0
+Professional Services,Airline ticket agency,2.0
+Professional Services,Airport shuttle service,2.0
+Professional Services,Ambulance service,2.0
+Professional Services,Animal control service,2.0
+Professional Services,Animal rescue service,2.0
+Professional Services,Anodizing service,2.0
+Professional Services,Antique furniture restoration service,2.0
+Professional Services,Appliance rental service,2.0
+Professional Services,Appliances customer service,2.0
+Professional Services,Arborist service,2.0
+Professional Services,Aromatherapy service,2.0
+Professional Services,Asbestos testing service,2.0
+Professional Services,Attorney referral service,2.0
+Professional Services,ATV rental service,2.0
+Professional Services,Audiovisual equipment rental service,2.0
+Professional Services,Bail bonds service,2.0
+Professional Services,Bankruptcy service,2.0
+Professional Services,Bee relocation service,2.0
+Professional Services,Betting agency,2.0
+Professional Services,Bicycle rental service,2.0
+Professional Services,Bird control service,2.0
+Professional Services,Birth certificate service,2.0
+Professional Services,Blood testing service,2.0
+Professional Services,Blueprint service,2.0
+Professional Services,Boat detailing service,2.0
+Professional Services,Boat rental service,2.0
+Professional Services,Bookkeeping service,2.0
+Professional Services,BPO placement agency,2.0
+Professional Services,Branding agency,2.0
+Professional Services,Building equipment hire service,2.0
+Professional Services,Building restoration service,2.0
+Professional Services,Bus ticket agency,2.0
+Professional Services,Business administration service,2.0
+Professional Services,Business banking service,2.0
+Professional Services,Business development service,2.0
+Professional Services,Business to business service,2.0
+Professional Services,Cabin rental agency,2.0
+Professional Services,Canoe & kayak rental service,2.0
+Professional Services,Chauffeur service,2.0
+Professional Services,Casket service,2.0
+Professional Services,Cat boarding service,2.0
+Professional Services,Catering equipment rental service,2.0
+Pets,Animal park,6.666666666666667
+Pets,Animal protection organization,6.666666666666667
+Pets,Animal shelter,6.666666666666667
+Pets,Animal watering hole,6.666666666666667
+Pets,Pet cemetery,6.666666666666667
+Pets,Pet groomer,6.666666666666667
+Pets,Pet sitter,6.666666666666667
+Pets,Pet trainer,6.666666666666667
+Pets,Petroleum products company,6.666666666666667
+Pets,Swimming competition,6.666666666666667
+Pets,Taekwondo competition area,6.666666666666667
+Pets,Veterans center,6.666666666666667
+Pets,Veterans organization,6.666666666666667
+Pets,Veterinarian,6.666666666666667
+Pets,Veterinary pharmacy,6.666666666666667
+Real Estate,Commercial real estate inspector,4.0
+Real Estate,Housing association,4.0
+Real Estate,Housing authority,4.0
+Real Estate,Housing complex,4.0
+Real Estate,Housing cooperative,4.0
+Real Estate,Housing development,4.0
+Real Estate,Housing society,4.0
+Real Estate,Housing utility company,4.0
+Real Estate,Intellectual property registry,4.0
+Real Estate,Lost property office,4.0
+Real Estate,Low income housing program,4.0
+Real Estate,Police officers’ housing,4.0
+Real Estate,Property investment company,4.0
+Real Estate,Property maintenance,4.0
+Real Estate,Property management company,4.0
+Real Estate,Real estate agent,4.0
+Real Estate,Real estate appraiser,4.0
+Real Estate,Real estate attorney,4.0
+Real Estate,Real estate auctioneer,4.0
+Real Estate,Real estate consultant,4.0
+Real Estate,Real estate developer,4.0
+Real Estate,Real estate school,4.0
+Real Estate,Real estate surveyor,4.0
+Real Estate,Sheltered housing,4.0
+Real Estate,Student housing center,4.0
+Hotels,Capsule hotel,9.090909090909092
+Hotels,Casino hotel,9.090909090909092
+Hotels,Extended stay hotel,9.090909090909092
+Hotels,Hotel,9.090909090909092
+Hotels,Hotel management school,9.090909090909092
+Hotels,Inn,9.090909090909092
+Hotels,Lodging,9.090909090909092
+Hotels,Love hotel,9.090909090909092
+Hotels,Religious lodging,9.090909090909092
+Hotels,Resort hotel,9.090909090909092
+Hotels,Wellness hotel,9.090909090909092
+Local Services,Aadhaar center,2.0
+Local Services,Abbey,2.0
+Local Services,Aboriginal and Torres Strait Islander organisation,2.0
+Local Services,Abrasives supplier,2.0
+Local Services,Accountant,2.0
+Local Services,Accounting firm,2.0
+Local Services,Accounting software company,2.0
+Local Services,Acoustical consultant,2.0
+Local Services,Acrobatic diving pool,2.0
+Local Services,Acupuncturist,2.0
+Local Services,Addiction treatment center,2.0
+Local Services,Administrative attorney,2.0
+Local Services,Commercial photographer,2.0
+Local Services,Aerated drinks supplier,2.0
+Local Services,Aerial photographer,2.0
+Local Services,Aero dance class,2.0
+Local Services,Aerobics instructor,2.0
+Local Services,Aeronautical engineer,2.0
+Local Services,Agenzia Entrate,2.0
+Local Services,Aggregate supplier,2.0
+Local Services,Agricultural association,2.0
+Local Services,Agricultural cooperative,2.0
+Local Services,Agricultural engineer,2.0
+Local Services,Agricultural machinery manufacturer,2.0
+Local Services,Agricultural organization,2.0
+Local Services,Agricultural product wholesaler,2.0
+Local Services,Agricultural production,2.0
+Local Services,Agrochemicals supplier,2.0
+Local Services,Air compressor supplier,2.0
+Local Services,Air conditioning contractor,2.0
+Local Services,Air conditioning system supplier,2.0
+Local Services,Air filter supplier,2.0
+Local Services,Air force base,2.0
+Local Services,Air taxi,2.0
+Local Services,Aircraft maintenance company,2.0
+Local Services,Aircraft manufacturer,2.0
+Local Services,Airline,2.0
+Local Services,Airplane,2.0
+Local Services,Airport,2.0
+Local Services,Airstrip,2.0
+Local Services,Alcohol manufacturer,2.0
+Local Services,Alcohol retail monopoly,2.0
+Local Services,Alcoholic beverage wholesaler,2.0
+Local Services,Alcoholism treatment program,2.0
+Local Services,Allergist,2.0
+Local Services,Alternative fuel station,2.0
+Local Services,Alternative medicine practitioner,2.0
+Local Services,Alternator supplier,2.0
+Local Services,Aluminum supplier,2.0
+Local Services,Aluminum frames supplier,2.0
+Event Planning & Services,Event management company,8.333333333333332
+Event Planning & Services,Event planner,8.333333333333332
+Event Planning & Services,Event ticket seller,8.333333333333332
+Event Planning & Services,Event venue,8.333333333333332
+Event Planning & Services,Sailing event area,8.333333333333332
+Event Planning & Services,Seventh-day Adventist church,8.333333333333332
+Event Planning & Services,Shooting event area,8.333333333333332
+Event Planning & Services,Wedding buffet,8.333333333333332
+Event Planning & Services,Wedding chapel,8.333333333333332
+Event Planning & Services,Wedding photographer,8.333333333333332
+Event Planning & Services,Wedding planner,8.333333333333332
+Event Planning & Services,Wedding venue,8.333333333333332
+Public Services & Government,Church council office,2.0
+Public Services & Government,City clerk’s office,2.0
+Public Services & Government,City district office,2.0
+Public Services & Government,City government office,2.0
+Public Services & Government,City tax office,2.0
+Public Services & Government,Construction and maintenance office,2.0
+Public Services & Government,Corporate office,2.0
+Public Services & Government,County government office,2.0
+Public Services & Government,Court executive officer,2.0
+Public Services & Government,Customs office,2.0
+Public Services & Government,District government office,2.0
+Public Services & Government,District office,2.0
+Public Services & Government,Driver’s license office,2.0
+Public Services & Government,Environment office,2.0
+Public Services & Government,Federal government office,2.0
+Public Services & Government,General register office,2.0
+Public Services & Government,Government college,2.0
+Public Services & Government,Government economic program,2.0
+Public Services & Government,Government office,2.0
+Public Services & Government,Government school,2.0
+Public Services & Government,Interior architect office,2.0
+Public Services & Government,Land surveying office,2.0
+Public Services & Government,Legal aid office,2.0
+Public Services & Government,Main customs office,2.0
+Public Services & Government,Military recruiting office,2.0
+Public Services & Government,Municipal administration office,2.0
+Public Services & Government,Municipal office education,2.0
+Public Services & Government,Non-governmental organization,2.0
+Public Services & Government,Office accessories wholesaler,2.0
+Public Services & Government,Office equipment supplier,2.0
+Public Services & Government,Office of Vital Records,2.0
+Public Services & Government,Office supply wholesaler,2.0
+Public Services & Government,Patent office,2.0
+Public Services & Government,Pension office,2.0
+Public Services & Government,Post office,2.0
+Public Services & Government,Japanese prefecture government office,2.0
+Public Services & Government,Probation office,2.0
+Public Services & Government,Land registry office,2.0
+Public Services & Government,Regional government office,2.0
+Public Services & Government,Registration office,2.0
+Public Services & Government,Registry office,2.0
+Public Services & Government,Resident registration office,2.0
+Public Services & Government,School administration office,2.0
+Public Services & Government,School district office,2.0
+Public Services & Government,Social security office,2.0
+Public Services & Government,State government office,2.0
+Public Services & Government,State office of education,2.0
+Public Services & Government,Tax collector’s office,2.0
+Public Services & Government,Ticket office,2.0
+Public Services & Government,Traffic officer,2.0
+Financial Services,Bank,6.666666666666667
+Financial Services,Bankruptcy attorney,6.666666666666667
+Financial Services,Blood bank,6.666666666666667
+Financial Services,Central bank,6.666666666666667
+Financial Services,Cooperative bank,6.666666666666667
+Financial Services,Federal reserve bank,6.666666666666667
+Financial Services,Finance broker,6.666666666666667
+Financial Services,Investment bank,6.666666666666667
+Financial Services,Investment company,6.666666666666667
+Financial Services,Organ donation and tissue bank,6.666666666666667
+Financial Services,Private sector bank,6.666666666666667
+Financial Services,Savings bank,6.666666666666667
+Financial Services,Shinkin bank,6.666666666666667
+Financial Services,Sperm bank,6.666666666666667
+Financial Services,Trust bank,6.666666666666667
+Education,Accounting school,2.0
+Education,Acupuncture school,2.0
+Education,Adult education school,2.0
+Education,After school program,2.0
+Education,Agricultural high school,2.0
+Education,Aikido school,2.0
+Education,Architecture school,2.0
+Education,Baby swimming school,2.0
+Education,Ballet school,2.0
+Education,Berufsfachschule (vocational school with apprenticeship),2.0
+Education,Bilingual school,2.0
+Education,School for the visually impaired,2.0
+Education,Board of education,2.0
+Education,Boarding school,2.0
+Education,Boys’ high school,2.0
+Education,Business school,2.0
+Education,Capoeira school,2.0
+Education,Catholic school,2.0
+Education,CBSE school,2.0
+Education,Chinese language school,2.0
+Education,Co-ed school,2.0
+Education,Combined primary and secondary school,2.0
+Education,Comprehensive secondary school,2.0
+Education,Computer training school,2.0
+Education,Cooking school,2.0
+Education,Cramming school,2.0
+Education,Culinary school,2.0
+Education,Dance school,2.0
+Education,Dental school,2.0
+Education,Drama school,2.0
+Education,Drivers license training school,2.0
+Education,Driving school,2.0
+Education,Drum school,2.0
+Education,Education center,2.0
+Education,Educational consultant,2.0
+Education,Educational institution,2.0
+Education,Elementary school,2.0
+Education,Emergency training school,2.0
+Education,Engineering school,2.0
+Education,English language school,2.0
+Education,Evening school,2.0
+Education,Farm school,2.0
+Education,Fashion design school,2.0
+Education,Fencing school,2.0
+Education,Flamenco school,2.0
+Education,Flight school,2.0
+Education,Folk high school,2.0
+Education,Foreign languages program school,2.0
+Education,French language school,2.0
+Education,General education school,2.0
+Religious Organizations,Abundant Life church,2.0
+Religious Organizations,Alliance church,2.0
+Religious Organizations,Anglican church,2.0
+Religious Organizations,Apostolic church,2.0
+Religious Organizations,Armenian church,2.0
+Religious Organizations,Assemblies of God church,2.0
+Religious Organizations,Baptist church,2.0
+Religious Organizations,Buddhist temple,2.0
+Religious Organizations,Calvary Chapel church,2.0
+Religious Organizations,Catholic church,2.0
+Religious Organizations,Christian church,2.0
+Religious Organizations,Church,2.0
+Religious Organizations,Church of Christ,2.0
+Religious Organizations,Church of Jesus Christ of Latter-day Saints,2.0
+Religious Organizations,Church of the Nazarene,2.0
+Religious Organizations,Deaf church,2.0
+Religious Organizations,Disciples of Christ Church,2.0
+Religious Organizations,Eastern Orthodox Church,2.0
+Religious Organizations,Episcopal church,2.0
+Religious Organizations,Evangelical church,2.0
+Religious Organizations,Foursquare church,2.0
+Religious Organizations,Friends church,2.0
+Religious Organizations,Full Gospel church,2.0
+Religious Organizations,Gospel church,2.0
+Religious Organizations,Greek Orthodox church,2.0
+Religious Organizations,Hindu temple,2.0
+Religious Organizations,Religious statue manufacturer,2.0
+Religious Organizations,Jain temple,2.0
+Religious Organizations,Korean church,2.0
+Religious Organizations,Lutheran church,2.0
+Religious Organizations,Mennonite church,2.0
+Religious Organizations,Methodist church,2.0
+Religious Organizations,Moravian church,2.0
+Religious Organizations,New Age church,2.0
+Religious Organizations,Non-denominational church,2.0
+Religious Organizations,Orthodox church,2.0
+Religious Organizations,Parsi temple,2.0
+Religious Organizations,Pentecostal church,2.0
+Religious Organizations,Presbyterian church,2.0
+Religious Organizations,Protestant church,2.0
+Religious Organizations,Quaker church,2.0
+Religious Organizations,Reformed church,2.0
+Religious Organizations,Religious destination,2.0
+Religious Organizations,Religious institution,2.0
+Religious Organizations,Religious organization,2.0
+Religious Organizations,Russian Orthodox church,2.0
+Religious Organizations,Taoist temple,2.0
+Religious Organizations,Unitarian Universalist Church,2.0
+Religious Organizations,United Church of Canada,2.0
+Religious Organizations,United Church of Christ,2.0
+Mass Media,Dental radiology,11.11111111111111
+Mass Media,Faculty of media and information science,11.11111111111111
+Mass Media,Media company,11.11111111111111
+Mass Media,Media consultant,11.11111111111111
+Mass Media,Media house,11.11111111111111
+Mass Media,Newsstand,11.11111111111111
+Mass Media,Radio broadcaster,11.11111111111111
+Mass Media,Radiologist,11.11111111111111
+Mass Media,Radiotherapist,11.11111111111111
